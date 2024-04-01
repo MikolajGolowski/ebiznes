@@ -2,12 +2,12 @@
 
 ## Zadanie 1 Tytuł
 
-✅ 3.0 wymaganie 1 [link]
+✅ 3.0 wymaganie 1 [link](https://github.com/MikolajGolowski/ebiznes/commit/f693d3675802ea4728a74479e9b75eff06e7f597)
 
-✅ 3.5 wymaganie 2 Link do commita 2
+✅ 3.5 wymaganie 2 [link](https://github.com/MikolajGolowski/ebiznes/commit/f693d3675802ea4728a74479e9b75eff06e7f597)
 
-✅ 4.0 wymaganie 3 Link do commita 3
+✅ 4.0 wymaganie 3 [link](https://github.com/MikolajGolowski/ebiznes/commit/f693d3675802ea4728a74479e9b75eff06e7f597)
 
-❌ 4.5 wymaganie 4 Link do commita 4
+❌ 4.5 wymaganie 4 [link](https://github.com/MikolajGolowski/ebiznes/commit/f693d3675802ea4728a74479e9b75eff06e7f597)
 
-❌ 5.0 wymaganie 5 Link do commita 5
+❌ 5.0 wymaganie 5 [link](https://github.com/MikolajGolowski/ebiznes/commit/f693d3675802ea4728a74479e9b75eff06e7f597)
